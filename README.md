@@ -9,7 +9,7 @@ Hotfix: Habitualmente se utiliza para código para depurar el código que venga 
 Feature-Renato: En este caso, cuando mi persona integre nuevas características, nuevos requisitos o nuevas historias de usuario. Es de utilidad cuando se trabaja en conjunto con el equipo de desarrollo.
 
 #Tecnología
-Esta sección demostrará cómo crear un microservicio de Producto usando ASP.NET Core. El servicio se construiría usando ASP.NET Core 3.1 y Visual Studio Code.Este servicio tendrá su propio DBcontext y base de datos con el repositorio aislado para que el servicio pueda implementarse de forma independiente.
+Esta sección demostrará cómo crear un microservicio de Producto usando ASP.NET Core. El servicio se construiría usando ASP.NET Core 2.1 y Visual Studio Code.Este servicio tendrá su propio DBcontext y base de datos con el repositorio aislado para que el servicio pueda implementarse de forma independiente.
 
 ASP.NET Core es un marco multiplataforma de código abierto y de alto rendimiento que tiene como finalidad compilar modernas aplicaciones conectadas a Internet y basadas en la nube.Con ASP.NET Core puede hacer lo siguiente:
 
